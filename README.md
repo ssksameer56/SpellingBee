@@ -1,0 +1,2 @@
+# SpellingBee
+ Spelling Bee Solver
